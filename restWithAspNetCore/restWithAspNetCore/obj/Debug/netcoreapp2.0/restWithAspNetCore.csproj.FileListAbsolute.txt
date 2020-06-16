@@ -1,0 +1,15 @@
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\bin\Debug\netcoreapp2.0\appsettings.json
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\bin\Debug\netcoreapp2.0\restWithAspNetCore.deps.json
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\bin\Debug\netcoreapp2.0\restWithAspNetCore.runtimeconfig.json
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\bin\Debug\netcoreapp2.0\restWithAspNetCore.runtimeconfig.dev.json
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\bin\Debug\netcoreapp2.0\restWithAspNetCore.dll
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\bin\Debug\netcoreapp2.0\restWithAspNetCore.pdb
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\obj\Debug\netcoreapp2.0\restWithAspNetCore.csprojAssemblyReference.cache
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\obj\Debug\netcoreapp2.0\restWithAspNetCore.AssemblyInfoInputs.cache
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\obj\Debug\netcoreapp2.0\restWithAspNetCore.AssemblyInfo.cs
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\obj\Debug\netcoreapp2.0\restWithAspNetCore.csproj.CoreCompileInputs.cache
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\obj\Debug\netcoreapp2.0\restWithAspNetCore.dll
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\obj\Debug\netcoreapp2.0\restWithAspNetCore.pdb
+C:\estudos\net-core\restWithAsp-Net-Core\restWithAspNetCore\restWithAspNetCore\obj\Debug\netcoreapp2.0\restWithAspNetCore.genruntimeconfig.cache
