@@ -1,18 +1,18 @@
-﻿using System;
+﻿using restWithAspNetCore.Model.Base;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace restWithAspNetCore.Model
 {
-    public class Person
+    public class Person : BaseEntity
     {
-        public long Id { get; set; }
-        public long FirstName { get; set; }
-        public long LastName { get; set; }
-
-        public long Address { get; set; }
-        public long Gender { get; set; }
+        //public long? Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Address { get; set; }
+        public string Gender { get; set; }
     
     }
 }
